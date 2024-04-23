@@ -1,11 +1,10 @@
 <h1 align="center">Hey there! 👋 I'm Nathaniel Glewwe</h1>
 <h3 align="center">A full stack dev, audio engineer, theatre enthusiast, swing dancer, and cat petter</h3>
-
-<h3>Hope you enjoy your stay here!</h3>
+<h3 align="center">Hope you enjoy your stay here!</h3>
 
 - 🔭 I’m currently working on [The Freelancer's Gear Scheduler](https://github.com/nateglewwe/Freelancers-Gear-Scheduler)
 
-- 🌱 I’m currently learning **Material UI**
+- 🌱 I’m currently learning more about **Material UI** <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="mui" width="40" hight="40"/> </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -29,6 +28,9 @@
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://mui.com/" target="_blank" rel="noreferrer">
+        <img src="https://mui.com/static/logo.png" alt="mui" width="40" hight="40"/>
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
