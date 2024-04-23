@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [The Freelancer's Gear Scheduler](https://github.com/nateglewwe/Freelancers-Gear-Scheduler)
 
-- 🌱 I’m currently learning more about **Material UI** <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="mui" width="40" hight="40"/> </a>
+- 🌱 I’m currently learning more about [Material UI](https://mui.com/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
