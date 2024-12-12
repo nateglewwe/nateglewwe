@@ -2,10 +2,6 @@
 <h3 align="center">A full stack dev, audio engineer, theatre enthusiast, swing dancer, and cat petter</h3>
 <h3 align="center">Hope you enjoy your stay here!</h3>
 
-- 🔭 I’m currently working on [The Freelancer's Gear Scheduler](https://github.com/nateglewwe/Freelancers-Gear-Scheduler)
-
-- 🌱 I’m currently learning more about TypeScript!
-
 <ul>
   <li>🔭 I’m currently working on <a href="https://github.com/nateglewwe/Freelancers-Gear-Scheduler">The Freelancer's Gear Scheduler!</a></li>
   <li>
@@ -15,8 +11,6 @@
     </a>
   </li>
 </ul>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
