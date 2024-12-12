@@ -4,7 +4,10 @@
 
 - 🔭 I’m currently working on [The Freelancer's Gear Scheduler](https://github.com/nateglewwe/Freelancers-Gear-Scheduler)
 
-- 🌱 I’m currently learning more about [Material UI](https://mui.com/)
+- 🌱 I’m currently learning more about TypeScript!
+<a href="https://typescriptlang.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
