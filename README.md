@@ -5,16 +5,11 @@
 - 🔭 I’m currently working on [The Freelancer's Gear Scheduler](https://github.com/nateglewwe/Freelancers-Gear-Scheduler)
 
 - 🌱 I’m currently learning more about TypeScript!
-<span>
-  <a href="https://typescriptlang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</span>
 
 <ul>
-  <li>🔭 I’m currently working on [The Freelancer's Gear Scheduler](https://github.com/nateglewwe/Freelancers-Gear-Scheduler)</li>
+  <li>🔭 I’m currently working on <a href="https://github.com/nateglewwe/Freelancers-Gear-Scheduler">The Freelancer's Gear Scheduler!</a></li>
   <li>
-    🌱 I’m currently learning more about TypeScript!
+    🌱 I’m currently learning more about <a href="https://typescriptlang.org">TypeScript!</a>
     <a href="https://typescriptlang.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
